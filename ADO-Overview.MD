@@ -16,7 +16,7 @@ Boards, Backlogs, Sprints rely on team configurations.<br/>
 For example, if you want to add a Kanban board or product backlog, you define a team.<br/>
 Adding a team essentially adds another product backlog associated with that team.
 
-### Area paths
+### [Area paths](https://docs.microsoft.com/en-us/azure/devops/organizations/settings/about-areas-iterations?view=azure-devops)
 Area paths will group work items by product, feature, or business areas to support teams responsible for work assigned to those areas. We have defined a hierarchical set of areas (supports a business hierarchy that wants to track the progress of several teams).
 
 ### Iteration (sprints) and iteration paths
@@ -49,13 +49,13 @@ The golden rule is that every work item should be traceable to an Epic
 - Features require more detail, at a minimum, several descriptive sentences
 
 
-## Work items 
+## [Work items](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process) 
 Use to find work items that are assigned to you quickly. Filter work items based on other criteria, such as work items that you follow, that mention you, or that you viewed or updated. 
 
-### Boards: 
+### [Boards](https://docs.microsoft.com/en-us/azure/devops/boards/boards/kanban-overview?view=azure-devops) 
 Boards present work items as cards and support quick status updates through drag-and-drop. Use to implement Kanban practices and visualize the flow of work for a team.
 
-### Backlogs: 
+### [Backlogs](https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/backlogs-overview?view=azure-devops) 
 Backlogs present work items as lists. Team backlogs can also be product backlogs. When creating a sprint, you'll likely be selecting from product backlogs and moving them into your sprint backlog. 
 
 What can you do from a backlog view versus a board view? 
@@ -69,17 +69,17 @@ How do changes you make in one show up on the other? What customizations can you
 With list backlogs, you can quickly group and prioritize work; and perform bulk updates on selected work items. 
 With boards, you can quickly update the status and fields displayed for each work item.
 
-### Sprints: 
+### [Sprints](https://docs.microsoft.com/en-us/azure/devops/boards/sprints/scrum-overview?view=azure-devops)
 Sprint backlogs and taskboards provide a filtered view of work items a team assigned to a specific iteration path or sprint. 
 Your sprint backlogs are one of three classes of backlogs available to you (backlogs, boards, and plans).
 
 As noted above, from your backlog, you can assign work to an iteration path by using drag-and-drop. You can then view that work in the associated sprint backlog. 
 
-### Queries: 
+### [Queries](https://docs.microsoft.com/en-us/azure/devops/boards/queries/example-queries?view=azure-devops) 
 Queries are filtered lists of work items based on criteria that you define by using a query editor. You can use queries to support the following tasks:
 - Find groups of work items with something in common.
 - Create a list of work items to share with others or do bulk updates. Triage a set of items to prioritize or assign.
 - Create status and trend charts that you can then add to dashboards.
 
-### Plans:
+### [Plans](https://docs.microsoft.com/en-us/azure/devops/boards/plans/review-team-plans?view=azure-devops)
 [To be added] 
