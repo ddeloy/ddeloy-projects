@@ -50,7 +50,7 @@ The golden rule is that every work item should be traceable to an Epic
 
 
 ## [Work items](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process) 
-Use to find work items that are assigned to you quickly. Filter work items based on other criteria, such as work items that you follow, that mention you, or that you viewed or updated. 
+Quickly find work items that are assigned to you. Filter work items based on other criteria, such as work items that you follow, that mention you, or that you viewed or updated. 
 
 ### [Boards](https://docs.microsoft.com/en-us/azure/devops/boards/boards/kanban-overview?view=azure-devops) 
 Boards present work items as cards and support quick status updates through drag-and-drop. Use to implement Kanban practices and visualize the flow of work for a team.
