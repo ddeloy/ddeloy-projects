@@ -9,7 +9,6 @@ A default team and default area path defined for the project. New teams added to
 **A team refers to a group of project members who work in a particular product area**<br/>
 Teams have an associated area path.<br/> 
 Area paths are hierarchical paths that denote the possible areas of ownership in an organization.<br/> 
-Many to one: A product area (like Cash.ai) will have multiple team subscriptions.
 
 **A team consists of a name, its members, and its area paths.**<br/>
 Boards, Backlogs, Sprints rely on team configurations.<br/> 
