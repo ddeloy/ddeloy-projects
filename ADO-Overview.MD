@@ -63,7 +63,6 @@ How do changes you make in one show up on the other? What customizations can you
 - Backlogs display work items as a list and boards display them as cards
 - You use your product backlog to plan and prioritize your work quickly
 - You use your sprint backlogs and taskboards when you work in Scrum
-- You use your Kanban board to update work status and when you employ Kanban methods
 - Each backlog is associated with a board, changes to priority order made in one board reflect in its corresponding board
 - Backlogs, boards, and plans are configurable for each team.
 
