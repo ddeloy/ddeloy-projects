@@ -45,7 +45,7 @@ The golden rule is that every work item should be traceable to an Epic
 - Every Epic needs at least a 1 sentence description
 - Features require more detail, at a minimum, several descriptive sentences
 
-### Azure Boards provides the following interactive lists and signboards. 
+## Azure Boards provides the following interactive lists and signboards. 
 Each tool provides a filtered set of work items. All tools support viewing and defining work items.  
 
 ### [Work items](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process) 
