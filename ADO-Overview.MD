@@ -81,4 +81,5 @@ Queries are filtered lists of work items based on criteria that you define by us
 - Create a list of work items to share with others or do bulk updates. Triage a set of items to prioritize or assign.
 - Create status and trend charts that you can then add to dashboards.
 
-
+### Plans:
+[To be added] 
