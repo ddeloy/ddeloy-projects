@@ -32,9 +32,6 @@ We want to set up a series of sprints at the project level that all teams can us
 As work progresses from not started to completed, you update the State workflow field from:
 New, Active, Resolved, and Closed.
 
-Azure Boards provides the following interactive lists and signboards. 
-Each tool provides a filtered set of work items. All tools support viewing and defining work items.  
-
 ### Work items and work item types
 - When you add a user story, bug, task, or feature, you create a work item. 
 - Add epics to track significant business initiatives. 
@@ -48,8 +45,10 @@ The golden rule is that every work item should be traceable to an Epic
 - Every Epic needs at least a 1 sentence description
 - Features require more detail, at a minimum, several descriptive sentences
 
+### Azure Boards provides the following interactive lists and signboards. 
+Each tool provides a filtered set of work items. All tools support viewing and defining work items.  
 
-## [Work items](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process) 
+### [Work items](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process) 
 Quickly find work items that are assigned to you. Filter work items based on other criteria, such as work items that you follow, that mention you, or that you viewed or updated. 
 
 ### [Boards](https://docs.microsoft.com/en-us/azure/devops/boards/boards/kanban-overview?view=azure-devops) 
