@@ -40,9 +40,6 @@
 - Abstract nature can be difficult to initially grasp
 - Fibonacci pointing lends itself very well to velocity measurement
 
-<br/>
-
-
 ### Story Points:
 - Using abstract values to represent the relative size of an issue, user story or task
 - Each value is the sum of the previous 2 values: 0,1,2,3,5,8,13,21
@@ -107,13 +104,16 @@ To conceptually simplify - though we could certainly adjust the definitions as m
 ## Atlassian Online Guide
 ### Excerpts
 
-**Estimation is hard**
-It must take into account a slew of factors that help product owners make decisions that affect the entire team and the business. `With all that at stake, it's no wonder everyone from developers to upper management is prone to getting their undies in a bunch about it.` But that's a mistake. Agile estimation is just that: an estimate. Not a blood-oath.
+**Estimation is hard**<br/>
+It must take into account a slew of factors that help product owners make decisions that affect the entire team and the business.
+ `With all that at stake, it's no wonder everyone from developers to upper management is prone to getting their undies in a bunch about it.` 
+ But that's a mistake. Agile estimation is just that: an estimate. Not a blood-oath.
 
 <br/>
 
-**Collaborating with the product owner**
-Product owners capture requirements from the business, but they don’t always understand the details of implementation. `So good estimation can give the product owner new insight into the level of effort for each work item, which then feeds back into their assessment of each item's relative priority`.
+**Collaborating with the product owner**<br/>
+Product owners capture requirements from the business, but they don’t always understand the details of implementation.
+ `So good estimation can give the product owner new insight into the level of effort for each work item, which then feeds back into their assessment of each item's relative priority`.
 
 <br/>
 
@@ -123,8 +123,9 @@ Product owners capture requirements from the business, but they don’t always u
 
 <br/>
 
-**Story points vs. hours**
-Story points rate the relative effort of work in a Fibonacci-like format.` It may sound counter-intuitive, but that abstraction is actually helpful because it pushes the team to make tougher decisions around the difficulty of work`.
+**Story points vs. hours**<br/>
+Story points rate the relative effort of work in a Fibonacci-like format.
+` It may sound counter-intuitive, but that abstraction is actually helpful because it pushes the team to make tougher decisions around the difficulty of work`.
 
 **_Here are a few reasons to use story points:_**
 - `Dates don’t account for the non-project related work that inevitably creeps into our days`: emails, slack convos, meetings, pr reviews, interviews, etc. that a team member may be involved in.
@@ -133,9 +134,12 @@ Story points rate the relative effort of work in a Fibonacci-like format.` It ma
 
 <br/>
 
-**Estimate smarter, not harder**
-`No individual task should be more than 16 hours of work.` (If you're using story points, you may decide that, say, 20 points is the upper limit.) It’s simply too hard to estimate individual work items larger than that with a high degree of confidence.
-`For items deeper in the backlog, give a rough estimate.` By the time the team actually begins to work on those items, the requirements may change, and your application certainly will have changed.
+**Estimate smarter, not harder**<br/>
+`No individual task should be more than 16 hours of work.`<br/>
+(If you're using story points, you may decide that, say, 20 points is the upper limit.)<br/>
+It’s simply too hard to estimate individual work items larger than that with a high degree of confidence.
+`For items deeper in the backlog, give a rough estimate.` <br/>
+By the time the team actually begins to work on those items, the requirements may change, and your application certainly will have changed.
 
 <br/>
 
