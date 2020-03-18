@@ -60,7 +60,7 @@ Alternative Fibonacci-like sequences are also common, ie: 0, 0.5, 1, 2, 3, 5, 8,
 - Team (or team member) grabs a user story, analyzes and places into an appropriate bucket
 
 
-![image.png](.attachments/image-buckets-1.png)
+![image.png](.attachments/image-buckets-2.png)
 
 ### Story Point Range: 1, 2, 3, 5, 8, 13, 21
 Though we could agree upon any alternative sequence that suits us
