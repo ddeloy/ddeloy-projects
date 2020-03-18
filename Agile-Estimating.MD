@@ -57,7 +57,7 @@ Alternative Fibonacci-like sequences are also common, ie: 0, 0.5, 1, 2, 3, 5, 8,
 - Team (or team member) grabs a user story, analyzes and places into an appropriate bucket
 
 
-![image.png](.attachments/image-buckets-2.png)
+![image.png](.attachments/image-buckets.png)
 
 ### Story Point Range: 1, 2, 3, 5, 8, 13, 21
 Though we could agree upon any alternative sequence that suits us
@@ -100,45 +100,48 @@ To conceptually simplify - though we could certainly adjust the definitions as m
 - Sometimes a big story is simply big (it may not be possible to chunk it down)
 - Goal: Chunking down as much as possible (even 8 pointers may be candidates for further breakdown)
 
+<br/>
 
 ## Atlassian Online Guide
 ### Excerpts
 
 **Estimation is hard**<br/>
 It must take into account a slew of factors that help product owners make decisions that affect the entire team and the business.<br/>
- `With all that at stake, it's no wonder everyone from developers to upper management is prone to getting their undies in a bunch about it.` 
- <br/>But that's a mistake. Agile estimation is just that: an estimate. Not a blood-oath.
+With all that at stake, it's no wonder everyone from developers to upper management is prone to getting their undies in a bunch about it.<br/> 
+But that's a mistake. Agile estimation is just that: an estimate. Not a blood-oath.
 
 <br/>
 
 **Collaborating with the product owner**<br/>
 Product owners capture requirements from the business, but they don’t always understand the details of implementation.<br/>
- `So good estimation can give the product owner new insight into the level of effort for each work item, which then feeds back into their assessment of each item's relative priority`.
+So good estimation can give the product owner new insight into the level of effort for each work item,
+<br/>which then feeds back into their assessment of each item's relative priority.
 
 <br/>
 
 **Agile estimation is a team sport**<br/>
-`Each team member brings a different perspective` on the product and the work required to deliver a user story.<br/>
-**_Personal note:_** Given the size and distribution of the team it would be difficult to involve everyone - but a worthy objective.
+Each team member brings a different perspective` on the product and the work required to deliver a user story.<br/>
+Given the size and distribution of the team it would be difficult to involve everyone - but a worthy objective.
 
 <br/>
 
 **Story points vs. hours**<br/>
 Story points rate the relative effort of work in a Fibonacci-like format.<br/>
-` It may sound counter-intuitive, but that abstraction is actually helpful because it pushes the team to make tougher decisions around the difficulty of work`.
+It may sound counter-intuitive, but that abstraction is actually helpful because it pushes the team to make tougher decisions around the difficulty of work.
 
 **_Here are a few reasons to use story points:_**
-- `Dates don’t account for the non-project related work that inevitably creeps into our days`: emails, slack convos, meetings, pr reviews, interviews, etc. that a team member may be involved in.
+- Dates don’t account for the non-project related work that inevitably creeps into our days: 
+  - emails, slack convos, meetings, pr reviews, interviews, etc. that a team member may be involved in.
 - Dates have an emotional attachment to them. Relative estimation removes the emotional attachment.
 - Once you agree on the relative effort of each story point value, you can assign points quickly...
 
 <br/>
 
 **Estimate smarter, not harder**<br/>
-`No individual task should be more than 16 hours of work.`<br/>
+No individual task should be more than 16 hours of work.<br/>
 (If you're using story points, you may decide that, say, 20 points is the upper limit.)<br/>
 It’s simply too hard to estimate individual work items larger than that with a high degree of confidence.<br/>
-`For items deeper in the backlog, give a rough estimate.` <br/>
+For items deeper in the backlog, give a rough estimate. <br/>
 By the time the team actually begins to work on those items, the requirements may change, and your application certainly will have changed.
 
 <br/>
