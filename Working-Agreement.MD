@@ -12,8 +12,8 @@ Now, more than ever, we need an extremely collaborative environment where all en
 
 **Are there decisions that, if made now, could help us in the future when the pressure is on, or things haven’t gone our way?**
 
-#### Working agreement
-A working agreement can "loosely" be defined as a list of rules, expectations, and procedures that govern how teams will work together.
+## The agreement
+A working agreement / Ways of working can "loosely" be defined as a list of rules, expectations, and procedures that govern how teams will work together.
 - Outside of the scrum framework but can be used by a lot of team members
 - Accessible and visible (not dogmatic -  a dynamic, living document)
 - Simply an agreement that “I do my part to make things happen”
