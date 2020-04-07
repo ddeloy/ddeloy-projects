@@ -26,9 +26,9 @@ We have a "multiplayer game" at several different levels...
     - Within H2O
 - Between PwC and H2O - in general
 
-**A working agreement is not meant to dictate** precisely how work gets done, but more to keep everyone maximumly productive and positive.
-**A working agreement can be whatever we want it to be** and include whatever we collectively agree to include: ie:  how we communicate with one another, processes, etc.
-**It’s essentially what we're looking to accomplish** and what the expectations are as part of the team.
+**A working agreement is not meant to dictate** precisely how work gets done, but more to keep everyone maximumly productive and positive.<br/>
+**A working agreement can be whatever we want it to be** and include whatever we collectively agree to include: ie:  how we communicate with one another, processes, etc.<br/>
+**It’s essentially what we're looking to accomplish** and what the expectations are as part of the team.<br/>
 Making certain assumptions, identifying challenges => facilitate conversation, change and update as needed...
 
 #### Ideally, a simple one-page document that includes the following key elements:
