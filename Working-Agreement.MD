@@ -1,4 +1,4 @@
-# Working Agreement
+# Working Agreement / Ways of Working
 #### A list of rules, expectations, and procedures to help govern how teams will work together
 
 ## Overview
