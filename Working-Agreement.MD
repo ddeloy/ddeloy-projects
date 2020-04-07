@@ -33,7 +33,7 @@ Making certain assumptions, identifying challenges => facilitate conversation, c
 
 #### Ideally, a simple one-page document that includes the following key elements:
 ####1. Definition of Ready (DOR)
-**Definition of Ready** - as applies to User Stories
+**Definition of Ready** - as applies to User Stories<br/>
 When is a User story Ready?
 Who, What, Why
 - Who is the customer: Who is going to use it; who are the end-users?
