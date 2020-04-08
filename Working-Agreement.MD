@@ -49,8 +49,8 @@ Acceptance Criteria:
 What specifically needs to be done and the level of complexity of the work?
 
 ####2. Definition of Done (DOD)
-**Definition of Done** - how do we know when we are done?
-(No such thing as almost done - almost there)
+**Definition of Done** - how do we know when we are done?<br/>
+(No such thing as almost done - almost there)<br/>
 What does it mean to get a story done?
 - The User Story meets the acceptance criteria
 - Unit testing
