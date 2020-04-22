@@ -80,4 +80,4 @@ Queries are filtered lists of work items based on criteria that you define by us
 - Create status and trend charts that you can then add to dashboards.
 
 ### [Plans](https://docs.microsoft.com/en-us/azure/devops/boards/plans/review-team-plans?view=azure-devops)
-[To be added] 
+
