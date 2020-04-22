@@ -57,9 +57,10 @@ For more information on Azure DevOps as a tool see the following (external) link
 Prior to WI’s (Work Items) being added into ADO, the correct Product should be identified, for example. Should you wish to update the AP.ai backlog, you should find the AP.ai backlog and begin populating items in this location.
 <br/>
 The wider [Audit.ai backlog](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_backlogs/backlog/Audit.ai%20Programme/Stories) can be used for a view across all FSLI’s / products under the Audit.ai product.
-<br/>
- ![image.png](.attachments/image-audit-backlog.png)
 
+<br/>
+
+ ![image.png](.attachments/image-audit-backlog.png)
 
 
 
@@ -77,7 +78,7 @@ Below is a break down of each DEEP section to explain the process within ADO to 
 <br/>
 
  
-##### Detailed Appropriately
+#### Detailed Appropriately
 We use the [Agile process in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#wit) which breaks work items and organises them as follows; for more on this see [ADO Defining Features and Epics](https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/define-features-epics?view=azure-devops&tabs=agile-process):
 
 
@@ -99,7 +100,7 @@ We use the [Agile process in Azure DevOps](https://docs.microsoft.com/en-us/azur
  ![image.png](.attachments/image-workflow-1.png)
 
 
-#####Epics & Feature Roadmaps
+####Epics & Feature Roadmaps
 Epics will both assist with delivery categories and managing/planning the project & programme roadmaps.
 <br/>
 To provide the most accurate sense of delivery timelines, ADO allows us to use the backlog as a golden single source of data which can populate multiple diagrams, charts and dashboards.
@@ -204,10 +205,9 @@ Upon creating a story, you would be required to point up the effort required to 
 
 Work items should be in rank order on the backlog based on business value and risk; this is important to ensure work begins on key deliverables, this also helps with Sprint Planning and decision making when there is excess or a lack of capacity to deliver Work Items; those at the top of the backlog have the highest priority order. 
 <br/>
-Note: A work item may have a priority assigned (1 being the highest) within the item itself, however, the backlog priority order is the preferred prioritisation mechanism.
-<br/>
-**Why prioritise?**
+Note: A work item may have a priority assigned (1 being the highest) within the item itself, however, the backlog priority order is the preferred prioritisation mechanism.<br/>
 
+**Why prioritise?**
 Once you have a prioritised, estimated and detailed backlog that is continually refined (built upon and developed on a regular basis) then the Sprint Planning process becomes a lot easier. You can use the built in ADO Velocity forecasting tool to help indicate what work items can be accomodated in upcoming sprints based on the work items estimated sizing.
 <br/>
 A view of an example backlog with forecasting turned on is shown below which indicates when each work item can be accommodated in terms of upcoming iterations (a.k.a. sprints): 
