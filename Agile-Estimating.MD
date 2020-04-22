@@ -146,6 +146,7 @@ By the time the team actually begins to work on those items, the requirements ma
 
 <br/>
 
+
 #### Complete Article - well worth a read:exclamation:
 **[What are story points and how do you estimate them - Atlassian](https://www.atlassian.com/agile/project-management/estimation)**
 
