@@ -121,6 +121,8 @@ For a more detailed and granular view, you can select Boards and then Plans. Wit
  
   ![image.png](.attachments/image-sidemenu-2.png) 
 
+<br/>
+
 Upon selection, you will be provided the below view breaking down feature delivery per sprint. 
 
  ![image.png](.attachments/image-breakdown-view.png) 
