@@ -74,7 +74,7 @@ To ensure ADO is built out with a defined backlog of Work Item’s (WI’s), its
 
 <br/>
 
-Below is a break down of each DEEP section to explain the process within ADO to follow out these steps:
+**Below is a break down of each DEEP section to explain the process within ADO to follow out these steps:**
 <br/>
 
  
