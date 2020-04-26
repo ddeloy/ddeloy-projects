@@ -228,7 +228,8 @@ It is worth noting that you cannot use the velocity based forecasting tool when 
 
 Once you have a populated backlog of organised, detailed and estimated work items broken down at the epic, feature and story level you can use a few approaches to planning an upcoming sprint: 
 
-**1. Plan from the Hierarchy / Parents view;** this allows you to focus on the epic to feature relationship within the backlog. Once you have identified the features you wish to allocate to a sprint you can multi select these (ctrl+ mouse click) and then right click to edit the Iteration Path field to the appropriate sprint.
+**1. Plan from the Hierarchy / Parents view;** this allows you to focus on the epic to feature relationship within the backlog. Once you have identified the features you wish to allocate to a sprint you can multi select these (`ctrl+ctrl / shift + mouse click`) and then `right click` to edit the Iteration Path field to the appropriate sprint.
+
 
  ![image.png](.attachments/image-sprint-plan-1.png)
  
@@ -274,3 +275,16 @@ Each team will have one representative to give an update, this will often be the
 
 
 
+###Ceremonies,tools and documentation
+
+**SCRUM call meeting structure**
+
+The following document breaks down the planning, stand up, review & retrospective meetings across all projects:  [Sprints/ Scrum - Terms of reference](https://docs.google.com/spreadsheets/d/1SaEvFVEJD2xGRav6naKOOgi0JBdRp1Fh2eLvdVtQB6A/edit#gid=0)
+
+<br/>
+
+**Supporting the delivery of work for the Audit.ai Programme: 
+[Audit.ai Deliverable Lifecycle Workflow](https://docs.google.com/drawings/d/1x0Gi8T321o-f0kYKHQqaxH68p9CvNE4rtSJr0YXcb_M/edit?usp=sharing)**
+
+
+ ![image.png](.attachments/image-delieverables-lifecycle.png)
