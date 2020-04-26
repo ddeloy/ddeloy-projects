@@ -277,14 +277,13 @@ Each team will have one representative to give an update, this will often be the
 
 ###Ceremonies,tools and documentation
 
-**SCRUM call meeting structure**
-
+#####SCRUM call meeting structure
 The following document breaks down the planning, stand up, review & retrospective meetings across all projects:  [Sprints/ Scrum - Terms of reference](https://docs.google.com/spreadsheets/d/1SaEvFVEJD2xGRav6naKOOgi0JBdRp1Fh2eLvdVtQB6A/edit#gid=0)
 
 <br/>
 
-**Supporting the delivery of work for the Audit.ai Programme: 
-[Audit.ai Deliverable Lifecycle Workflow](https://docs.google.com/drawings/d/1x0Gi8T321o-f0kYKHQqaxH68p9CvNE4rtSJr0YXcb_M/edit?usp=sharing)**
+#####Supporting the delivery of work for the Audit.ai Programme
+[Audit.ai Deliverable Lifecycle Workflow](https://docs.google.com/drawings/d/1x0Gi8T321o-f0kYKHQqaxH68p9CvNE4rtSJr0YXcb_M/edit?usp=sharing)
 
 
  ![image.png](.attachments/image-delieverables-lifecycle.png)
