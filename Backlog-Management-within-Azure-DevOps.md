@@ -10,7 +10,11 @@ For more information on Azure DevOps as a tool see the following (external) link
 
 <br>
 
-#Epic, Feature, Story implementation (work item heirarchy)
+------------------
+
+<br>
+
+#Epic, Feature, Story implementation (work item hierarchy)
 
 <br>
  
@@ -22,6 +26,12 @@ The wider [Audit.ai backlog](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_ba
 
  ![image.png](.attachments/image-audit-backlog.png)
 
+
+<br>
+<br>
+
+-------------
+<br>
 
 <br>
 
@@ -50,11 +60,11 @@ To ensure ADO is built out with a defined backlog of Work Item’s (WI’s), its
 
 **Below is a break down of each DEEP section to explain the process within ADO to follow out these steps:**
 <br/>
-
-------------
 <br/>
 
-## Detailed Appropriately
+
+
+## 1. Detailed Appropriately
 <br> 
 
 We use the [Agile process in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#wit) which breaks work items and organises them as follows; for more on this see [ADO Defining Features and Epics](https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/define-features-epics?view=azure-devops&tabs=agile-process):
@@ -112,28 +122,35 @@ The backlog ordering (priority ordering) can also be set at this stage to reflec
 <br>
 
 
-##Emergent 
+## 2. Emergent 
 
+<br>
 
 *Adding Work Items to the backlog as new requirements and information emerges:*
 <br>
 ADO has multiple ways of adding items, the preferred method would be adding them directly into a backlog.
-<br/>
+
 As mentioned above, prior to adding a WI into ADO you must confirm the application/team that your item will be in relation to.
-<br/>
+
 Go to the backlog item located under Board within ADO (Seen below)
+<br>
 
   ![image.png](.attachments/image-sidemenu-backlog.png) 
+
+<br>
 
 After arriving on the backlog of choice, select the top right hand corner of the page and select the Work Item type you wish to add:
 
    ![image.png](.attachments/image-product-backlog.png) 
 
-
+<br>
 <br/>
 Once confirmed, select ‘+ New Work Item’. 
 
    ![image.png](.attachments/image-plus-workitem-1.png) 
+
+<br>
+<br>
    
    ![image.png](.attachments/image-plus-workitem-2.png) 
  
@@ -142,7 +159,7 @@ Once confirmed, select ‘+ New Work Item’.
 -----------------
 <br>
 
-##Estimated  
+## 3. Estimated  
 
 The common practice when estimating effort required to deliver WI’s is using the Fibonacci Sequence. 
 See Wiki Article: [Agile Estimating](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/15/Agile-Estimating)
@@ -170,7 +187,9 @@ Upon creating a story, you would be required to point up the effort required to 
 
 <br>
 
-## Prioritised 
+## 4. Prioritised 
+
+<br>
 
 Work items should be in backlog rank order (Azure DevOps calls this "stack rank" order) on the backlog based on business value and risk; this is important to ensure work begins on key deliverables, this also helps with Sprint Planning and decision making when there is excess or a lack of capacity to deliver Work Items; those at the top of the backlog have the highest priority order. 
 
@@ -185,7 +204,7 @@ Note: A work item may have a priority assigned (1 being the highest) within the 
 <br/>
 <br/>
 
-**Why prioritise?**
+**Why make the effort to prioritise? _(The power of a prioritised backlog)_**
 
 Once you have a prioritised, estimated and detailed backlog that is continually refined (built upon and developed on a regular basis, **preferably via frequent (at least weekly) backlog refinement meetings** with the PO / project owners) then the Sprint Planning process becomes a lot easier. You can use the built in ADO Velocity forecasting tool to help indicate what work items can be accomodated in upcoming sprints based on the work items estimated sizing.
 <br/>
@@ -195,7 +214,9 @@ A view of an example backlog with forecasting turned on is shown below which ind
 
 <br/>
 
-It is worth noting that you cannot use the velocity based forecasting tool when you have the parent / hierarchy view (i.e. showing which epic and feature a story belongs to) in Azure DevOps; these are mutually exclusive views (but you can still prioritise by forced rank ordering within a feature or epic, just not across the entire backlog in this view): 
+As a side note, it is worth noting that **_you cannot use the velocity based forecasting tool when you have the parent / hierarchy view enabled_** (i.e. showing which epic and feature a story belongs to) in Azure DevOps; these are mutually exclusive views (but you can still prioritise by forced rank ordering within a feature or epic, just not across the entire backlog in this view): 
+
+<br>
 
   ![image.png](.attachments/image-sample-backlog-1.png)
 
