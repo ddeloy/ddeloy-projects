@@ -3,8 +3,7 @@
 ## **Application Testing Process**
 
 ### Documented below is the process followed when testing application requirements across Audit.ai. 
-Items coloured in **Yellow** are In sprint actions, items in blue are **Post sprint**
- actions.
+Items coloured in **Yellow** are In sprint actions, items in blue are **Post sprint** actions.
 
 ![image.png](/.attachments/image-87a10456-242f-4c53-8128-3c4da0a04b8c.png)
 
