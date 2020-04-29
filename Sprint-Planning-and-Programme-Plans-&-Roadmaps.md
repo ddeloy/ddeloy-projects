@@ -40,6 +40,7 @@ Once you have a populated backlog of organised, detailed and estimated work item
 
 
 #Epics & Feature Roadmaps
+
 <br/>
 Epics will both assist with delivery categories and managing/planning the project & programme roadmaps.
 <br/>
@@ -75,8 +76,3 @@ Upon selection, you will be provided the below view breaking down feature delive
 These views are ideal for demonstrating future deliveries and reporting progress to peers, management or stakeholders.
 <br/>
 Note that in the “Plan” view you can also directly add features and assign these to sprints which can be extremely helpful when planning sprint themes before features are then broken down into stories and tasks, i.e. this allows you to start with the “big picture” before focusing in on the detailed requirements of what needs to be developed to meet those customer needs. 
-
-
-<br>
- 
-------------
