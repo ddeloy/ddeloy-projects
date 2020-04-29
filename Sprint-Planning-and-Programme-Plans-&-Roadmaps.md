@@ -39,10 +39,12 @@ Once you have a populated backlog of organised, detailed and estimated work item
 <br>
 
 
-# Epics & Feature Roadmaps
+#Epics & Feature Roadmaps
+<br/>
 Epics will both assist with delivery categories and managing/planning the project & programme roadmaps.
 <br/>
-To provide the most accurate sense of delivery timelines, ADO allows us to use the backlog as a golden single source of data which can populate multiple diagrams, charts and dashboards.
+
+<br/>To provide the most accurate sense of delivery timelines, ADO allows us to use the backlog as a golden single source of data which can populate multiple diagrams, charts and dashboards.
 
  <br/>
  
@@ -50,7 +52,11 @@ To provide the most accurate sense of delivery timelines, ADO allows us to use t
   
   <br/>
 
-Above is the Programme level view that can assist with visualising timelines for Epics, reflecting on progress and cu, if the programme is on track and what is upcoming. This can be accessed by going to ADO, selecting boards and then selecting Portfolio Plans.
+Above is the Programme level view that can assist with visualising timelines for Epics, reflecting on progress and cu, if the programme is on track and what is upcoming. 
+
+<br/>
+
+This can be accessed by going to ADO, selecting boards and then selecting Portfolio Plans.
 
  ![image.png](.attachments/image-side-menu.png) 
 
