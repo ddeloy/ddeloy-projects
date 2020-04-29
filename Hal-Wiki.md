@@ -6,6 +6,8 @@
 
 ## The intention of this wiki is to provide a quick reference directly in Azure DevOps to cover the following for the Audit.ai Programme : 
 
+<br> 
+
 - Ways of working
 - Process and best practice
 - Azure DevOps "How To's" specific to our project context
@@ -21,6 +23,8 @@
 -------------------
 
 ## Hal Wiki Content Quick Links: 
+
+<br> 
 
 - [Ways of Working (WoW)](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/31/Ways-of-Working-(WoW))
 - [Backlog Management](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/24/Backlog-Management-within-Azure-DevOps)
