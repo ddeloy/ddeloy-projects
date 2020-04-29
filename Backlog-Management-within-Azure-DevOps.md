@@ -60,6 +60,8 @@ To ensure ADO is built out with a defined backlog of Work Item’s (WI’s), its
 We use the [Agile process in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#wit) which breaks work items and organises them as follows; for more on this see [ADO Defining Features and Epics](https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/define-features-epics?view=azure-devops&tabs=agile-process):
 
 
+<br><br>
+
 **Work Item definition and hierarchy**:
 
 <br>
@@ -107,7 +109,7 @@ The backlog ordering (priority ordering) can also be set at this stage to reflec
 <br>
 
 
-#Emergent 
+##Emergent 
 
 
 *Adding Work Items to the backlog as new requirements and information emerges:*
@@ -137,7 +139,7 @@ Once confirmed, select ‘+ New Work Item’.
 -----------------
 <br>
 
-#Estimated  
+##Estimated  
 
 The common practice when estimating effort required to deliver WI’s is using the Fibonacci Sequence. 
 See Wiki Article: [Agile Estimating](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/15/Agile-Estimating)
