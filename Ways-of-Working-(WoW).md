@@ -21,8 +21,20 @@ Ways of working can "loosely" be defined as a list of rules, expectations, and p
 **It’s essentially what we're looking to accomplish** and what the expectations are as part of the team.<br/>
 Making certain assumptions, identifying challenges => facilitate conversation, change and update as needed...
 
-##Two key elements:
-####1. Definition of Ready (DOR)
+<br>
+
+--------------
+
+<br>
+
+# Two key elements:
+
+<br>
+
+## 1. Definition of Ready (DOR)
+
+<br>
+
 **Definition of Ready** - as applies to User Stories<br/>
 When is a User story Ready?
 Who, What, Why
@@ -38,7 +50,12 @@ Acceptance Criteria:
 
 What specifically needs to be done and the level of complexity of the work?
 
-####2. Definition of Done (DOD)
+<br>
+
+## 2. Definition of Done (DOD)
+
+<br>
+
 **Definition of Done** - how do we know when we are done?<br/>
 (No such thing as almost done - almost there)<br/>
 What does it mean to get a story done?
