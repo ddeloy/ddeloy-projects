@@ -29,20 +29,20 @@ The wider [Audit.ai backlog](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_ba
 <br>
 
 To ensure ADO is built out with a defined backlog of Work Item’s (WI’s), its key to ensure clear objectives to act as a guideline. DEEP is an acronym that indicates key traits to an effective product backlog.
-- ###Detailed appropriately:
+- **Detailed appropriately**:
   Ensure Work Items (WI) are clearly defined and details of requirements can be understood so that the business/developers can start work without additional discussion or input.
 
 
-- ### Emergent: 
+- **Emergent**: 
 
   WI’s are added into the backlog as new information arises, the backlog evolves and emerges over time with those at the top of the backlog having more detail than those at the bottom of the backlog. 
 
 
-- ### Estimated: 
+- **Estimated**: 
   Work items are pointed (we use story points; see the estimation wiki for more detail) in order to clearly define the estimated effort required to deliver the work item, the approach should be standardised at a team level in order to improve estimation accuracy and consistency over time.
 
 
-- ###Prioritised: 
+- **Prioritised**: 
   Work items are in rank order on the backlog based on business value and risk; this is important to ensure work begins on key deliverables, this also helps with Sprint Planning and decision making when there is excess or a lack of capacity to deliver Work Items; those at the top of the backlog have the highest priority order. Note: A work item may have a priority assigned (1 being the highest) within the item itself, however, the backlog priority order is the preferred prioritisation mechanism.
 
 <br/>
@@ -55,6 +55,8 @@ To ensure ADO is built out with a defined backlog of Work Item’s (WI’s), its
 <br/>
 
 ## Detailed Appropriately
+<br> 
+
 We use the [Agile process in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/about-work-items?view=azure-devops&tabs=agile-process#wit) which breaks work items and organises them as follows; for more on this see [ADO Defining Features and Epics](https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/define-features-epics?view=azure-devops&tabs=agile-process):
 
 
