@@ -4,7 +4,7 @@
 
 ---------------------
 
-## The intention of this wiki is to provide a quick reference directly in Azure DevOps to cover: 
+## The intention of this wiki is to provide a quick reference directly in Azure DevOps to cover the following for the Audit.ai Programme : 
 
 - Ways of working
 - Process and best practice
