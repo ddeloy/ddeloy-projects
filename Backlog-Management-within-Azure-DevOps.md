@@ -83,8 +83,11 @@ We use the [Agile process in Azure DevOps](https://docs.microsoft.com/en-us/azur
  ![image.png](.attachments/image-workflow-1.png)
 
 
+<br/>
 
-###A focus on Azure DevOps User Stories
+<br/>
+
+**A focus on Azure DevOps User Stories**
 
 Ideally stories should be created and linked to a feature delivery to visualise all requirements required to deliver a feature(s). A story would be created by the developers & product owners. Collaborating to ensure that both Business and Technical requirements are documented and understood.
 <br/>
