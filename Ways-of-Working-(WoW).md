@@ -1,4 +1,7 @@
 
+[[_TOC_]]
+
+
 # Ways of Working (WoW Article)
   
 
