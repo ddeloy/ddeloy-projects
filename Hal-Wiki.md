@@ -10,11 +10,20 @@
 
 - Ways of working
 - Process and best practice
-- Azure DevOps "How To's" specific to our project context
-- Share learnings
+- Azure DevOps (ADO) "How To's" specific to our project context
+- Share learnings for ADO and managing our flow of work
 - Answer FAQ's
 
 
+<br>
+
+
+**Note :information_source::** 
+The idea is to use this wiki for help and support across Azure DevOps, our delivery processes and our ways of working only. This is because other documentation and wiki's already exist for the programme (google drive and confluence spaces); we can get benefit from this tool by using it natively for these purposes to help us in our day to day work as a quick reference guide.
+
+
+<br>
+<br>
 
 
 
