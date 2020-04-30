@@ -6,9 +6,11 @@
 
 # Sprint Planning
 
-Once you have a populated backlog of organised, detailed and estimated work items broken down at the epic, feature and story level you can use a few approaches to planning an upcoming sprint: 
+Once a teams has populated a backlog with organised, detailed and estimated work items broken down at the epic, feature and story level you can use three approaches in Azure DevOps when planning an upcoming sprint: 
 
 <br/>
+<br/>
+
 
 **1. Plan from the Hierarchy / Parents view;** this allows you to focus on the epic to feature relationship within the backlog. Once you have identified the features you wish to allocate to a sprint you can multi select these (`ctrl+ctrl / shift + mouse click`) and then `right click` to edit the Iteration Path field to the appropriate sprint.
 
