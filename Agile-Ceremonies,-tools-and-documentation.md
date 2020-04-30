@@ -1,7 +1,13 @@
 [[_TOC_]]
 
+# Agile Ceremonies:
+<br>
 
-#Daily  Stand Up 
+-------------
+
+<br>
+
+##Daily  Stand Up: 
 
 *The purpose of the daily stand up is to provide concise and clear updates on WI in the sprint.*
 
@@ -35,7 +41,9 @@ Each team will have one representative to give an update, this will often be the
 
 <br>
 
-# Backlog Refinement
+##Backlog Refinement Meetings:
+
+<br>
 
 The objective of these meetings are to iteratively and regularly refine the backlog in line with the DEEP backlog standards:
 
@@ -55,25 +63,39 @@ Ultimately the intention is to coordinate management of work items and developme
 
 <br>
 
+##Sprint Planning
+- On a two weekly basis we run meetings to pick items off the backlog and allocate to upcoming sprints
+- Allocation is in line with product priorities (as long as features / requirements are sufficiently detailed to start work on)
+- Before a work item is considered for a sprint it should meet the [Definition of Ready](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/31/Ways-of-Working-(WoW)?anchor=1.-definition-of-ready-(dor)) 
+- Sprint Planning sessions also held across PwC and H20 to introduce the overall 'Sprint Theme" and priorities to be addressed in sprint
+
 <br>
 
-#Ceremony overview and meeting structure
+-------------
 
-The following document breaks down the planning, stand up, review & retrospective meetings across all projects:  [Sprints/ Scrum - Terms of reference](https://docs.google.com/spreadsheets/d/1SaEvFVEJD2xGRav6naKOOgi0JBdRp1Fh2eLvdVtQB6A/edit#gid=0)
+<br>
 
-<br/>
+##Sprint Review (and Retrospective)
+- Typically held towards the end of a sprint to reflect on progress made in Sprint
+- Demo of product features delivered during sprint
+- Opportunity to feedback on lessons learnt, identify improvement opportunities around our ways of working and asses how we improved (or not) since the last demo
 
-##Processes and Tooling Supporting the delivery of work for the Audit.ai Programme:
+<br>
+
+-------------
+
+<br>
+
+<br>
+
+
+# Processes, Tooling and Artefacts supporting Delivery:
 
 [Audit.ai Deliverable Lifecycle Workflow](https://docs.google.com/drawings/d/1x0Gi8T321o-f0kYKHQqaxH68p9CvNE4rtSJr0YXcb_M/edit?usp=sharing)
 
 
  ![image.png](.attachments/image-delieverables-lifecycle.png)
 
-<br>
-
-
--------------
 
 <br>
 
@@ -85,7 +107,7 @@ The following document breaks down the planning, stand up, review & retrospectiv
 
 <br>
 
-###2. Backlog work item Development in Azure DevOps
+###2. Backlog work items Development in Azure DevOps
 - Work items created in ADO developed from the FRD
 - Work items have hierarchy structure (Epic / Feature / User Story)
 - Work items are prioritised appropriately
@@ -94,18 +116,14 @@ The following document breaks down the planning, stand up, review & retrospectiv
 
 <br>
 
-###3. Sprint Planning
-- On a two weekly basis we run meetings to pick items off the backlog and allocate to upcoming sprints
-- Allocation is in line with product priorities (as long as features / requirements are sufficiently detailed to start work on)
-- Before a work item is considered for a sprint it should meet the [Definition of Ready](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/31/Ways-of-Working-(WoW)?anchor=1.-definition-of-ready-(dor)) 
-- Sprint Planning sessions also held across PwC and H20 to introduce the overall 'Sprint Theme" and priorities to be addressed in sprint
+
+-------------
 
 <br>
 
-###4. Sprint Review (and Retro)
-- Typically held towards the end of a sprint to reflect on progress made in Sprint
-- Demo of product features delivered during sprint
-- Opportunity to feedback on lessons learnt, identify improvement opportunities around our ways of working and asses how we improved (or not) since the last demo
 
-<br>
-<br>
+##Ceremony overview and meeting structure
+
+The following document breaks down the planning, stand up, review & retrospective meetings across all projects:  [Sprints/ Scrum - Terms of reference](https://docs.google.com/spreadsheets/d/1SaEvFVEJD2xGRav6naKOOgi0JBdRp1Fh2eLvdVtQB6A/edit#gid=0)
+
+<br/>
