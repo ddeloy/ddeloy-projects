@@ -29,9 +29,31 @@ Each team will have one representative to give an update, this will often be the
 
 
 <br>
+<br>
 
 -------------
 
+<br>
+
+# Backlog Refinement
+
+The objective of these meetings are to iteratively and regularly refine the backlog in line with the DEEP backlog standards:
+
+- To help build out the backlog work items as early as possible, creation of new items and iterative development of existing items
+- Support backlog prioritisation, with the highest priority items at the top and suitably detailed ready for development
+- Moving or removing items that are no longer relevant
+- Splitting work items where required  to ensure we have the right structure and work item hierarchy
+- Support work item quality so they can be effectively delivered and managed through the process
+
+Ultimately the intention is to coordinate management of work items and development of the backlog in Azure DevOps; this process should also more easily facilitate sprint forecasting and Sprint Planning.
+
+<br>
+<br>
+
+
+-------------
+
+<br>
 
 <br>
 
