@@ -41,7 +41,7 @@ The following document breaks down the planning, stand up, review & retrospectiv
 
 <br/>
 
-##Processes and Toolingh Supporting the delivery of work for the Audit.ai Programme:
+##Processes and Tooling Supporting the delivery of work for the Audit.ai Programme:
 
 [Audit.ai Deliverable Lifecycle Workflow](https://docs.google.com/drawings/d/1x0Gi8T321o-f0kYKHQqaxH68p9CvNE4rtSJr0YXcb_M/edit?usp=sharing)
 
