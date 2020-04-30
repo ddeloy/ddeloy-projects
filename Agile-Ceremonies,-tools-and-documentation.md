@@ -102,8 +102,8 @@ Ultimately the intention is to coordinate management of work items and developme
 ###1. Functional Requirements Document
 - Used to iteratively define requirements for the Audit.ai product
 - Should have detailed requirement sufficient enough to build features and user stories
-- Each requirement should have a corresponding acceptance criteria
-- Requirements finalised In the functional Requirements Document to feed into the ADO work Item (Prior to work item bring allocated to a Sprint)
+- Each requirement should have a corresponding acceptance criteria (in line / grouped together with the requirement)
+- Requirements finalised In the functional Requirements Document to feed into the ADO work Item (Prior to work item bring allocated to a Sprint); these should be made available via a specific link (docs bookmark link)
 
 <br>
 
