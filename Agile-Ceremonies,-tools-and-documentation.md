@@ -69,3 +69,43 @@ The following document breaks down the planning, stand up, review & retrospectiv
 
 
  ![image.png](.attachments/image-delieverables-lifecycle.png)
+
+<br>
+
+
+-------------
+
+<br>
+
+###1. Functional Requirements Document
+- Used to iteratively define requirements for the Audit.ai product
+- Should have detailed requirement sufficient enough to build features and user stories
+- Each requirement should have a corresponding acceptance criteria
+- Requirements finalised In the functional Requirements Document to feed into the ADO work Item (Prior to work item bring allocated to a Sprint)
+
+<br>
+
+###2. Backlog work item Development in Azure DevOps
+- Work items created in ADO developed from the FRD
+- Work items have hierarchy structure (Epic / Feature / User Story)
+- Work items are prioritised appropriately
+- Once they are sufficiently detailed then they can be allocated to a Sprint (Iteration Path)
+- Work Backlog should be developed in line with [DEEP backlog standards](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/24/Backlog-Management-within-Azure-DevOps?anchor=developing-a-deep-backlog)
+
+<br>
+
+###3. Sprint Planning
+- On a two weekly basis we run meetings to pick items off the backlog and allocate to upcoming sprints
+- Allocation is in line with product priorities (as long as features / requirements are sufficiently detailed to start work on)
+- Before a work item is considered for a sprint it should meet the [Definition of Ready](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/31/Ways-of-Working-(WoW)?anchor=1.-definition-of-ready-(dor)) 
+- Sprint Planning sessions also held across PwC and H20 to introduce the overall 'Sprint Theme" and priorities to be addressed in sprint
+
+<br>
+
+###4. Sprint Review (and Retro)
+- Typically held towards the end of a sprint to reflect on progress made in Sprint
+- Demo of product features delivered during sprint
+- Opportunity to feedback on lessons learnt, identify improvement opportunities around our ways of working and asses how we improved (or not) since the last demo
+
+<br>
+<br>
