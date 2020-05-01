@@ -118,7 +118,7 @@ Ultimately the intention is to coordinate management of work items and developme
   - As requirements are developed in the FRD they are also added into Azure DevOps as a placeholder (Epic or Feature level initially) to build the product backlog
   - Once requirements are finalised In the Functional Requirements Document these detailed requirements then feed into the ADO work Item to add sufficient detail for the work item to be estimated and understood by a developer; these details should be made available via a specific link (direct docs bookmark link)
   - Once requirements are defined in the FRD which meet our [Definition of Ready (DoR)](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/31/Ways-of-Working-(WoW)?anchor=1.-definition-of-ready-(dor)) then the requirements can be "frozen" and the corresponding ADO work item can be picked off the backlog and allocated to a Sprint
-  - In the unlikely event that a frozen requirement has to later be changed and work stopped on the corresponding ADO work item for whatever reason then a tag should be added to indicate the work item is "ON HOLD"; this process should only be followed as an excpetion however
+  - In the unlikely event that a frozen requirement has to later be changed and work stopped on the corresponding ADO work item for whatever reason then a tag should be added to indicate the work item is "ON HOLD"; this process should only be followed as an exception however
 - Managing Change Requests / Changes to "frozen" requirements: 
   - "Frozen" in this context means the state of a requirement once it is signed off in the FRD and we are able to fully detail the corresponding ADO work item then
   - If after this stage the requirement needs to change for whatever reason as we learn more then the [Change Request](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/35/Managing-Bugs-Defects-and-Change-Requests?anchor=managing-change-requests-%2F-changes-to-%22frozen%22-requirements%3A) process is recommended to be followed to ensure transparency and communication
@@ -126,7 +126,8 @@ Ultimately the intention is to coordinate management of work items and developme
    - In the FRDs, we use 3 check boxes against each requirement to capture the current sign-off status to track sign off status:
  ![image.png](/.attachments/image-425eb7f4-689e-4b19-b472-751aa008b13f.png)
    - In order to obtain sign-off (i.e. tick against Reviewed check box) requirements need to be reviewed with the Programmr Sponsors and approval / sign-off confirmed; this then allows the requirement to be consider "Ready" and assigned to a Sprint (or the "ON HOLD" tag removed if it is already allocated to an active sprint).
-   - Acceptance Criteria to follow the "Given" --> "When" --> "Then" format: ![image.png](/.attachments/image-19fedbb3-fe51-4dc4-988e-227d1bee9c0b.png)
+   - Acceptance Criteria to follow the "Given" --> "When" --> "Then" format: 
+![image.png](/.attachments/image-19fedbb3-fe51-4dc4-988e-227d1bee9c0b.png)
 
 
 <br>
