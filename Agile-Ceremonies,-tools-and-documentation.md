@@ -3,6 +3,16 @@
 # Agile Ceremonies:
 <br>
 
+<br>
+
+
+### Ceremony overview and meeting structure
+
+As well as the descriptions below the following document also breaks down the planning, stand up, review & retrospective meetings across all projects:  [Sprints/ Scrum - Terms of reference](https://docs.google.com/spreadsheets/d/1SaEvFVEJD2xGRav6naKOOgi0JBdRp1Fh2eLvdVtQB6A/edit#gid=0)
+
+<br/>
+
+
 -------------
 
 <br>
@@ -128,11 +138,3 @@ Ultimately the intention is to coordinate management of work items and developme
 
 -------------
 
-<br>
-
-
-##Ceremony overview and meeting structure
-
-The following document breaks down the planning, stand up, review & retrospective meetings across all projects:  [Sprints/ Scrum - Terms of reference](https://docs.google.com/spreadsheets/d/1SaEvFVEJD2xGRav6naKOOgi0JBdRp1Fh2eLvdVtQB6A/edit#gid=0)
-
-<br/>
