@@ -30,6 +30,7 @@ Backlog prioritisation of Bugs and Defects will be based on Severity and Priorit
 
 
 <br> 
+<br> 
 
 ###Bug States
 
@@ -38,3 +39,15 @@ In Resolved, the creater of the bug should be assigned to review and agree that 
 On confirmation that the bug is resolved the bug should be moved to "Closed"
 
 A view of bugs in the current sprint in a "Resolved" state can be seen here: https://dev.azure.com/pwc-gx-asr-innovation/Hal/_queries/query-edit/b8bdd79c-323a-47d1-b8d3-28f86b844cf3/
+
+
+<br> 
+
+
+###Bug Characteristics (Severity and Criticality) 
+
+There is a guide from ADO here for the generic rating of Bugs in the tool (Source, external link): 
+https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/manage-bugs?view=azure-devops&tabs=new-web-form
+
+![image.png](/.attachments/image-386a66f9-40b7-4904-9b4e-1f73bda64900.png)
+
