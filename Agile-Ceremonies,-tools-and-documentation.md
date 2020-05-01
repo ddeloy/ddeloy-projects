@@ -101,17 +101,20 @@ Ultimately the intention is to coordinate management of work items and developme
 
 ###1. Functional Requirements Document
 - Used to iteratively define requirements for the Audit.ai product
-- Should have detailed requirement sufficient enough to build features and user stories
+- Should have detailed requirement sufficient enough to build features and user stories in ADO
 - Each requirement should have a corresponding acceptance criteria (in line / grouped together with the requirement)
-- Requirements finalised In the functional Requirements Document to feed into the ADO work Item (Prior to work item bring allocated to a Sprint); these should be made available via a specific link (docs bookmark link)
+- Requirements Management / Interaction with Azure DevOps (work items): 
+  - As requirements are developed in the FRD they are also added into Azure DevOps as a placeholder (Epic or Feature level initially) to build the product backlog
+  - Once requirements are finalised In the Functional Requirements Document these detailed requirements then feed into the ADO work Item to add sufficient detail for the work item to be estimated and understood by a developer; these details should be made available via a specific link (direct docs bookmark link)
+  - Once requirements are defined in the FRD which meet our [Definition of Ready (DoR)](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/31/Ways-of-Working-(WoW)?anchor=1.-definition-of-ready-(dor)) then the requirements can be "frozen" and the corresponding ADO work item can be picked off the backlog and allocated to a Sprint
 
 <br>
 
 ###2. Backlog work items Development in Azure DevOps
-- Work items created in ADO developed from the FRD
-- Work items have hierarchy structure (Epic / Feature / User Story)
-- Work items are prioritised appropriately
-- Once they are sufficiently detailed then they can be allocated to a Sprint (Iteration Path)
+- Work items created in ADO are developed from the FRD (as per description above)
+- Work items should have hierarchy structure (Epic / Feature / User Story)
+- Work items should be prioritised appropriately in the product backlog
+- Once they are sufficiently detailed and meet the DoR then they can be allocated to a Sprint (Iteration Path)
 - Work Backlog should be developed in line with [DEEP backlog standards](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/24/Backlog-Management-within-Azure-DevOps?anchor=developing-a-deep-backlog)
 
 <br>
