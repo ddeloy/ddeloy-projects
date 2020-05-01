@@ -101,7 +101,8 @@ Ultimately the intention is to coordinate management of work items and developme
 
 ###1. Functional Requirements Document
 - Used to iteratively define requirements for the Audit.ai product
-- Should have detailed requirement sufficient enough to build features and user stories in ADO
+      - Using collaborative tooling in shared google doc including comments and [suggested edits](https://support.google.com/docs/answer/6033474?co=GENIE.Platform%3DDesktop&hl=en))
+- Used to deliver a detailed requirement sufficient enough to build features and user stories in ADO
 - Each requirement should have a corresponding acceptance criteria (in line / grouped together with the requirement)
 - Requirements Management / Interaction with Azure DevOps (work items): 
   - As requirements are developed in the FRD they are also added into Azure DevOps as a placeholder (Epic or Feature level initially) to build the product backlog
