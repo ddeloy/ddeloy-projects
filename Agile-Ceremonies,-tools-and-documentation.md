@@ -43,6 +43,33 @@ Each team will have one representative to give an update, this will often be the
     - The aim is to broadcast what was done, what is being worked on next and what blockers (if any) are being faced that you need support with
     - If the information is only useful to a few people on the call then it may be better to take the discussion “offline”
 
+<br> 
+
+### ADO Views and links used in the Daily Stand Up for Updates: 
+
+#### Metrics / Dashboard Views:
+- https://dev.azure.com/pwc-gx-asr-innovation/Hal/_dashboards/dashboard/b493dfa3-c799-4127-8713-9d936c068544
+
+- https://dev.azure.com/pwc-gx-asr-innovation/Hal/_dashboards/dashboard/f83f6cde-c1a9-4636-b8dd-3e8e9dde0a4f
+
+- https://dev.azure.com/pwc-gx-asr-innovation/Hal/_dashboards/dashboard/03d88c1c-4248-4beb-8fdc-055b24f302c3
+
+- https://dev.azure.com/pwc-gx-asr-innovation/Hal/_dashboards/dashboard/3ac2230c-b736-4e9d-92a8-7d7bdf58ff88
+
+#### ADO Team Board Views:
+- https://dev.azure.com/pwc-gx-asr-innovation/Hal/_boards/board/t/Audit.ai%20Programme/Stories/
+
+- https://dev.azure.com/pwc-gx-asr-innovation/Hal/_boards/board/t/H2O.ai%20-%20Backend/Stories?fullScreen=true
+
+- https://dev.azure.com/pwc-gx-asr-innovation/Hal/_boards/board/t/H2O.ai%20-%20Frontend/Stories?fullScreen=true
+
+- https://dev.azure.com/pwc-gx-asr-innovation/Hal/_boards/board/t/Global%20Assurance%20Innovation%20-%20Data/Stories?fullScreen=true
+
+- https://dev.azure.com/pwc-gx-asr-innovation/Hal/_boards/board/t/Data%20Science/Stories
+
+- https://dev.azure.com/pwc-gx-asr-innovation/Hal/_boards/board/t/Global%20Assurance%20Innovation%20-%20Technology/Stories?fullScreen=true
+
+
 
 <br>
 <br>
