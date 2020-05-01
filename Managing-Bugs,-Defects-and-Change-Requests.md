@@ -27,3 +27,14 @@ Backlog prioritisation of Bugs and Defects will be based on Severity and Priorit
    - Triage and decisions for expediting critical or urgent bugs or defects can be managed via a Slack channel ['#triage'](https://project-water-team.slack.com/archives/C012D1Z734P); this Slack channel exists for this purpose so we can quickly react to triage and prioritise any incoming critical bugs without the need to wait for the next backlog refinement session. 
    - Ideally we will use the automated integration subscription from Azure DevOps that will notify this channel if any new ADO bugs are created
    - Best practice is then suggested to be to use mentions and threads on these notifications for a new critical bug to address specific discussions and decisions on critical bugs, e.g. for example to prioritise a new bug above already committed work in a sprint.
+
+
+<br> 
+
+###Bug States
+
+Once Bugs are "fixed" they should be moved into "Resolved".
+In Resolved, the creater of the bug should be assigned to review and agree that the bug is "resolved".
+On confirmation that the bug is resolved the bug should be moved to "Closed"
+
+A view of bugs in the current sprint in a "Resolved" state can be seen here: https://dev.azure.com/pwc-gx-asr-innovation/Hal/_queries/query-edit/b8bdd79c-323a-47d1-b8d3-28f86b844cf3/
