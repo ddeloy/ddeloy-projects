@@ -109,10 +109,7 @@ Ultimately the intention is to coordinate management of work items and developme
   - Once requirements are defined in the FRD which meet our [Definition of Ready (DoR)](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/31/Ways-of-Working-(WoW)?anchor=1.-definition-of-ready-(dor)) then the requirements can be "frozen" and the corresponding ADO work item can be picked off the backlog and allocated to a Sprint
 - Managing Change Requests / Changes to "frozen" requirements: 
   - "Frozen" in this context means the state of a requirement once it is signed off in the FRD and we are able to fully detail the corresponding ADO work item then
-  - If after this stage the requirement needs to change for whatever reason as we learn more then the following [Change Request](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/35/Managing-Bugs-Defects-and-Change-Requests) process is recommended to be followed to ensure transparency and communication:
-         - Update the requirement details in the FRD, highlighting the changes applied in the document
-         - Add a comment to indicate the changes with a mention (+ or @) to the assignee of the corresponding ADO work item
-         - Update the corresponding work item with the appropriate changes and add a comment / mention to whoever needs to be aware of these changes. If the change is significant then this may warrant closure of the current work item and creation of a new work item (Epic, Feature or User Story)
+  - If after this stage the requirement needs to change for whatever reason as we learn more then the [Change Request](https://dev.azure.com/pwc-gx-asr-innovation/Hal/_wiki/wikis/Hal.wiki/35/Managing-Bugs-Defects-and-Change-Requests) process is recommended to be followed to ensure transparency and communication
 
 
 <br>
