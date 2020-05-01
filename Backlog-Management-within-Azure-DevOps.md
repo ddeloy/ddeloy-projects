@@ -7,6 +7,9 @@
 For more information on Azure DevOps as a tool see the following (external) links to get started, note there are other areas of documentation to cover test, code repos, pipeline and others: 
 - [Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops)
 - [ADO Boards](https://docs.microsoft.com/en-us/azure/devops/boards/?view=azure-devops)
+- [ADO Intro to Backlog Management - Recorded Training](https://drive.google.com/file/d/1UxPE-0wJkNO1EwugOtITyKrJywTIpiP7/view)
+
+
 
 <br>
 
