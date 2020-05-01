@@ -5,7 +5,7 @@
 
 <br>
 
-##Definitions of a Bug, Defect and Change Request:
+# Definitions of a Bug, Defect and Change Request:
 - a Bug (broken or non working function) 
 - a Defect (functionality not aligned with acceptance criteria) 
 - a Change request (a change to previously stated requirements discovered while testing; may in the form of a user story, feature or epic).
