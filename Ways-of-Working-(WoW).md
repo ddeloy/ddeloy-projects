@@ -27,7 +27,7 @@ Making certain assumptions, identifying challenges => facilitate conversation, c
 
 <br>
 
-# Two key elements:
+# Understanding Qualifying Criteria for Work Item "State":
 
 <br>
 
@@ -65,3 +65,13 @@ What does it mean to get a story done?
 - Integration testing (this user story didn't break other features)
 - Lightweight documentation of what was done (product owner for final review; where applicable)
 - Ready for PwC to QA Test
+
+<br>
+
+-------------------------
+<br>
+
+## Unfinished Work at the end of a Sprint
+- We keep it simple and carry the entire story over if not completed in a sprint.
+- If we are due to carry over a lot we should think about more conservative pointing estimates, smaller user stories and granularity of each of our work item types.
+- Why do we take this approach? This article explains it nicely (External Link): [leftover work](https://www.mountaingoatsoftware.com/blog/handling-work-left-at-the-end-of-a-sprint)
