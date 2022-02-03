@@ -38,12 +38,8 @@ Also, here are a few points that need to be addressed:
 * Constraint 3
 
 
-### Notes
-Some complementary notes if necessary:
-
-* > A quote from slack
-* Any other useful info…
-
-
 ### Additional Info
 * Whatever is useful as additional reference
+* > A quote from slack
+* Links to docs
+* Pic,image,diagram
